@@ -1,0 +1,19 @@
+{
+  "name": "tonejstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beforeShow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://asfaltsky@bitbucket.org/asfaltsky/musical-instrument.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/asfaltsky/musical-instrument#readme",
+  "dependencies": {
+    "tone": "^13.8.25"
+  }
+}
